@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.0_08264578651a40d5373eb4059abeaae143afaf62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.0_873cb465093453226550441d21303bd560965523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.0_7f88441211d3c5f2627a60c73252b866d4563f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.0_d336a3bb9fc7eb75507df29371f8979b022374ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_8687c7c9e53aa6253ae55636831a1c26e45b9308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_4c9d023e05823e92eb9dae21a79c1c76a0fc8d25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.0_05a08e7debff956c3fe51cf3081958a74555ede9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.0_7b911a03fad8cc8a8cc6a3b5fbdfba84a57a5b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_bc2083090e635c9e5caa16c3ac7247e622c9293c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_fc4c491401e0cf12185102abb61cbc64e4c7e48f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.0_8423d35d2a6c374aa479ad6c2454f3d8c31cb7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_0f470ecd9d39b1e28ced9c066fc22212e4c5b67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.24.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0e0e8918eb74e3ee9e82eef6430a4359b2b577d3">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.24.0_c9d03db7d9f3d194d299536603496c805fac7500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_5b9278da5efa14ab2bf13249cf1f987b40072493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_d476703d54d7edd5f54001a32e2bfe474ce50f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_d3296f024d1dd293e389755c194a1b6ea7151516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="170f58fe253df44751a2418cdd3e0e6cabb47a3a">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\instant-run_5f84efeb0d22e7e3283699dbd6161dd3d54aacd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.0_d0ee9c3dc586169acd58533d688849868820bc44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9cbdabba632cbf8be001cdbf34110cf42a64015">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.roughike-bottom-bar-2.3.1_fa0cd03b64af31a1249a3dbad22ca6680215cd3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_1a471e94c04d2044ce98129c90be8d5455ba1d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_63fd92e56084251e02c51c8df5b9dbf86ca3f205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.0_7d86b39aee7a6430e9304fb5ee83e9beec26b95d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.0_304c6c238b02946e28cb303340925bbb75d778f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_dc786e082a5ae51c8530fe13f4d8a1504326dcd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea1bf9475fe8a543a999d5dd7099ad0e7b99af40">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_63242b5f417914d1ff37008eaa443ee50d096aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.0_ebe106e648b3457fc78e8ec931f327880b121568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.0_699b3dc02684f62804d08309bb2832ab90281b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_f5df6fd47b0281ea640d525c0c6dc11063dcfd94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_d85d033887ae7a2c0f5dcb1b76b55aa3ce097dc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.zoonref\simple-view-behavior\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72337187bb1a066aa3f679661bde7d8e78a09065">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.zoonref-simple-view-behavior-1.0_a310facb3df54f47882417c502c37f78cb580eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.0_2ff80c1b31954cf5f74500a947de73e98f3c71b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_7fe5daee2875bef904c48807e0a9334e16fd067f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_bafe560bdfe93e2012b8a188ff60eb0fcd08cfdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70a9349df3cb6b8e23c2e5866ef157e57850e156">
+        <dex dex="C:\Users\Payall\AndroidStudioProjects\platzigram-practices\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.3.0_36c4eb81a72660084e308011c607e36c8e7d1d3e.jar" />
+    </item>
+
+</items>
